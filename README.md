@@ -53,7 +53,7 @@ Shared code lives in [src/workflow_builder.py](src/workflow_builder.py), which b
 
 ```bash
 git clone https://github.com/manishh/openjiuwen--agent-cores-fix-for-switching-llm-providers
-cd https://github.com/manishh/openjiuwen--agent-cores-fix-for-switching-llm-providers
+cd openjiuwen--agent-cores-fix-for-switching-llm-providers
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
