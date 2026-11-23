@@ -52,8 +52,8 @@ Shared code lives in [src/workflow_builder.py](src/workflow_builder.py), which b
 **Requirements:** Python 3.11, 3.12, or 3.13 (developed on 3.12) and API keys for OpenAI and DeepSeek.
 
 ```bash
-git clone https://github.com/draftdev/huawei-openjiuwen--agent-cores-fix-for-switching-llm-providers-without-rew
-cd huawei-openjiuwen--agent-cores-fix-for-switching-llm-providers-without-rew
+git clone https://github.com/manishh/openjiuwen--agent-cores-fix-for-switching-llm-providers
+cd https://github.com/manishh/openjiuwen--agent-cores-fix-for-switching-llm-providers
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
